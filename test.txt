@@ -1,3 +1,4 @@
 print('this is a test')
 a=x+2
 b=2+2
+c = 5
